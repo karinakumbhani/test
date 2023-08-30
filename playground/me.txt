@@ -1,0 +1,5 @@
+{{#user}}
+Name: Karina
+Skills: C, C++, HTML, CSS, Python, Machine Learning, SQL, Java, Deep Lerning 
+Email: karinakumbhani@gmail.com
+{{/user}}
